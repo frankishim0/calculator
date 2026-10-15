@@ -1,0 +1,37 @@
+body {
+  background: black;
+}
+
+.calculator {
+  width: 300px;
+  margin: 40px auto;
+}
+
+.display {
+  color: white;
+  font-size: 3rem;
+  text-align: right;
+  padding: 20px 10px;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  margin: 4px;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 50%;
+  background: #333;
+  color: white;
+}
+
+.op {
+  background: #ff9f0a;
+}
+
+.clear {
+  width: 292px;
+  border-radius: 30px;
+  background: #a5a5a5;
+  color: black;
+}
